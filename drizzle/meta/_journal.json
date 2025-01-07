@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1736278912616,
+      "tag": "0000_easy_big_bertha",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1736278934176,
+      "tag": "0001_premium_piledriver",
+      "breakpoints": true
+    }
+  ]
+}
