@@ -4,7 +4,7 @@ npm i -D drizzle-kit
 npm i drizzle-orm babel-plugin-inline-import
 npm i expo-drizzle-studio-plugin
 
-npx expo-customize metro.config.js
+npx expo customize metro.config.js
 npx expo customize babel.config.js
 
 Add this in metro.config.js
